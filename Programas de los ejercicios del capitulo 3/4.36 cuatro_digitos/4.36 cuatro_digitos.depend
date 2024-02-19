@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1708285574 source:c:\users\oskar\onedrive\escritorio\tercer semestre\programación i\programas de codeblock\programas de los ejercicios del capitulo 3\4.36 cuatro_digitos\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1708295969 source:c:\users\oskar\onedrive\escritorio\tercer semestre\programación i\programas de codeblock\programas de los ejercicios del capitulo 3\4.26 comprobacion_palindromo\main.cpp
+	<iostream>
+	<string.h>
+
