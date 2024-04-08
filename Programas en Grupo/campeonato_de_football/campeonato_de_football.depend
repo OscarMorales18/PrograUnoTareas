@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1708832527 source:c:\users\oskar\onedrive\escritorio\tercer semestre\programación i\progra pipo\campeonato_de_football\main.cpp
-	<iostream>
-	<cstdlib>
-	<ctime>
-	<string>
-	<iomanip>
-

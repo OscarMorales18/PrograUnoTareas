@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1708832614 source:c:\users\oskar\onedrive\escritorio\tercer semestre\programación i\progra pipo\candidatos_por_rondas\main.cpp
-	<iostream>
-	<iomanip>
-	<cstdlib>
-	<ctime>
-	<limits>
-
