@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1712593644 source:c:\users\oskar\onedrive\escritorio\tercer semestre\notas_universitarias_librerias\src\tercersemestre.cpp
+	"TercerSemestre.h"
+
+1712593644 c:\users\oskar\onedrive\escritorio\tercer semestre\notas_universitarias_librerias\include\tercersemestre.h
+	<iomanip>
+	<iostream>
+
+1712593823 source:c:\users\oskar\onedrive\escritorio\tercer semestre\notas_universitarias_librerias\src\primersemestre.cpp
+	"PrimerSemestre.h"
+
+1712593885 c:\users\oskar\onedrive\escritorio\tercer semestre\notas_universitarias_librerias\include\primersemestre.h
+	<iomanip>
+	<iostream>
+
+1712594065 source:c:\users\oskar\onedrive\escritorio\tercer semestre\notas_universitarias_librerias\src\segundosemestre.cpp
+	"SegundoSemestre.h"
+
+1712594065 c:\users\oskar\onedrive\escritorio\tercer semestre\notas_universitarias_librerias\include\segundosemestre.h
+	<iomanip>
+	<iostream>
+
+1712594085 source:c:\users\oskar\onedrive\escritorio\tercer semestre\notas_universitarias_librerias\main.cpp
+	<iostream>
+	"PrimerSemestre.h"
+	"SegundoSemestre.h"
+	"TercerSemestre.h"
+
